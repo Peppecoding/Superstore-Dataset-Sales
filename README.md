@@ -42,7 +42,7 @@ Un proyecto práctico y claro de análisis de datos usando Python y pandas, cent
 
 ## 📈 Sample Output / Ejemplo de Visualización
 
-![Monthly Sales Chart](images/monthly_sales_plot.png)
+![Monthly Sales Chart](visual.png)
 
 ---
 
